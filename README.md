@@ -1,3 +1,3 @@
 # csf_cs
-C# version
+C# version [x64]
 original: https://github.com/ekknod/csf_w
